@@ -552,6 +552,9 @@ int main(void)
 	  lv_label_set_text_fmt(label, "#00ff00 Hello, World!#");
 	  lv_task_handler();
 	  HAL_Delay(1000);
+	  lv_label_set_text_fmt(label, "#00ff00 FUCK, World!#");
+	  lv_task_handler();
+	  HAL_Delay(1000);
 	  //lv_obj_clean(scr1);
 	  //lv_ex_label();
 
