@@ -1,0 +1,2 @@
+../lvgl/src/font/Font_16.c:200309:24:__user_font_get_bitmap	0	static
+../lvgl/src/font/Font_16.c:200323:13:__user_font_get_glyph_dsc	0	static

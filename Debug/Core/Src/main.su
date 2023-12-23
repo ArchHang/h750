@@ -1,0 +1,15 @@
+../Core/Src/main.c:95:10:Get_TIM_CNT	0	static
+../Core/Src/main.c:101:9:SDRAM_Test	112	static
+../Core/Src/main.c:190:5:FATFS_Init	528	static
+../Core/Src/main.c:213:5:SD_WriteByte	584	static
+../Core/Src/main.c:232:5:SD_ReadByte	584	static
+../Core/Src/main.c:252:5:SD_ReadFile	584	static
+../Core/Src/main.c:269:5:SD_CreateDir	8	static
+../Core/Src/main.c:281:6:FatFs_GetVolume	16	static
+../Core/Src/main.c:318:6:lv_scr_init	32	static
+../Core/Src/main.c:350:6:lv_ex_label	16	static
+../Core/Src/main.c:429:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:571:6:SystemClock_Config	128	static,ignoring_inline_asm
+../Core/Src/main.c:629:6:PeriphCommonClock_Config	200	static,ignoring_inline_asm
+../Core/Src/main.c:452:5:main	24	static,ignoring_inline_asm
+../Core/Src/main.c:715:6:Error_Handler	0	static,ignoring_inline_asm

@@ -1,0 +1,2 @@
+../lvgl/src/font/Font_japenese_16.c:14046:24:__user_font_get_bitmap	3
+../lvgl/src/font/Font_japenese_16.c:14060:13:__user_font_get_glyph_dsc	3

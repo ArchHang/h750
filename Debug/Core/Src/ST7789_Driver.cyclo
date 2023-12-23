@@ -1,0 +1,8 @@
+../Core/Src/ST7789_Driver.c:9:6:LCD_DisplayOn	1
+../Core/Src/ST7789_Driver.c:15:6:LCD_DisplayOff	1
+../Core/Src/ST7789_Driver.c:20:6:LCD_Write_Cmd	1
+../Core/Src/ST7789_Driver.c:32:6:LCD_Write_Data	1
+../Core/Src/ST7789_Driver.c:45:6:LCD_Address_Set	1
+../Core/Src/ST7789_Driver.c:70:6:LCD_Refresh	1
+../Core/Src/ST7789_Driver.c:97:6:LCD_AreaRefresh	2
+../Core/Src/ST7789_Driver.c:133:6:LCD_Init	1
