@@ -9,7 +9,7 @@
 ../Core/Src/main.c:318:6:lv_scr_init	1
 ../Core/Src/main.c:350:6:lv_ex_label	1
 ../Core/Src/main.c:429:6:HAL_TIM_PeriodElapsedCallback	2
-../Core/Src/main.c:571:6:SystemClock_Config	4
-../Core/Src/main.c:629:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:574:6:SystemClock_Config	4
+../Core/Src/main.c:632:6:PeriphCommonClock_Config	2
 ../Core/Src/main.c:452:5:main	5
-../Core/Src/main.c:715:6:Error_Handler	1
+../Core/Src/main.c:718:6:Error_Handler	1

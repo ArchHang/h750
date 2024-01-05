@@ -34,9 +34,9 @@
 extern SDRAM_HandleTypeDef hsdram1;
 
 /* USER CODE BEGIN Private defines */
-#define SDRAM_BANK_ADDR     ((uint32_t)0xC0000000) 				// FMC SDRAM ���ݻ���ַ
-#define FMC_COMMAND_TARGET_BANK   FMC_SDRAM_CMD_TARGET_BANK1	//	SDRAM ��bankѡ��
-#define SDRAM_TIMEOUT     ((uint32_t)0x1000) 						// ��ʱ�ж�ʱ��
+#define SDRAM_BANK_ADDR     ((uint32_t)0xC0000000) 				// FMC SDRAMַ
+#define FMC_COMMAND_TARGET_BANK   FMC_SDRAM_CMD_TARGET_BANK1	//	SDRAM
+#define SDRAM_TIMEOUT     ((uint32_t)0x1000) 						//
 
 #define SDRAM_MODEREG_BURST_LENGTH_1             ((uint16_t)0x0000)
 #define SDRAM_MODEREG_BURST_LENGTH_2             ((uint16_t)0x0001)

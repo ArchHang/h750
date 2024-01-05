@@ -1,0 +1,14 @@
+../Core/Src/i2c_software.c:5:6:I2C_Software_Init	4	static
+../Core/Src/i2c_software.c:21:6:I2C_Delay_us	16	static
+../Core/Src/i2c_software.c:31:6:I2C_Delay_Cycle	16	static
+../Core/Src/i2c_software.c:36:6:I2C_Delay_HalfCycle	16	static
+../Core/Src/i2c_software.c:41:6:I2C_SCL_Set	0	static
+../Core/Src/i2c_software.c:46:6:I2C_SCL_Reset	0	static
+../Core/Src/i2c_software.c:52:6:I2C_SDA_SetBit	0	static
+../Core/Src/i2c_software.c:60:6:I2C_Software_Start	24	static
+../Core/Src/i2c_software.c:73:6:I2C_Software_Stop	24	static
+../Core/Src/i2c_software.c:83:6:I2C_TansmitBit	16	static
+../Core/Src/i2c_software.c:92:6:I2C_SDA_Input	40	static
+../Core/Src/i2c_software.c:101:6:I2C_SDA_Output	40	static
+../Core/Src/i2c_software.c:113:5:I2C_RecieveBit	48	static
+../Core/Src/i2c_software.c:130:5:I2C_Software_Tansmit	40	static
